@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_193521" data-name="Group 193521" transform="translate(-669 -184)">
+    <g id="Material_add_create" data-name="Material, add &gt; create" transform="translate(669 184)">
+      <circle id="Button" cx="18" cy="18" r="18" fill="#fa270d" opacity="0.43"/>
+      <g id="Button_2" data-name="Button 2" fill="#fff" stroke="#bababa" stroke-width="1">
+        <circle cx="18" cy="18" r="18" stroke="none"/>
+        <circle cx="18" cy="18" r="17.5" fill="none"/>
+      </g>
+      <g id="Group_147536" data-name="Group 147536" transform="translate(10.047 10.884)">
+        <path id="Path_115683" data-name="Path 115683" d="M49,62.291A2.791,2.791,0,1,0,51.791,59.5,2.791,2.791,0,0,0,49,62.291Z" transform="translate(-43.419 -54.919)" fill="none" stroke="#c5c5c5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_115684" data-name="Path 115684" d="M23.744,22.151a1.86,1.86,0,0,0-1.86-1.86H18.628V18.43a.93.93,0,0,0-.93-.93H13.047a.93.93,0,0,0-.93.93v1.86H8.86A1.86,1.86,0,0,0,7,22.151v7.442a1.86,1.86,0,0,0,1.86,1.86H21.884a1.86,1.86,0,0,0,1.86-1.86Z" transform="translate(-7 -17.5)" fill="none" stroke="#c5c5c5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
